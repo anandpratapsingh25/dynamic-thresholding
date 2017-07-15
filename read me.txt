@@ -1,0 +1,2 @@
+this code is to calculate band wise statistics for satellite image captured in multi band. A concept of dynamic thresholding is used.
+to run this code a multi band satellite image is needed.  
